@@ -1,0 +1,37 @@
+body {
+    background-color: black;
+    color: white;
+    
+}
+
+#nav-bar {
+    border: 2px solid white;
+    display: inline-block;
+    width: 100%;
+}
+
+h1 {
+    display: inline-block;
+    font-size: 30px;
+}
+
+h3 {
+    font-size: 30px;
+}
+
+a {
+    color: white;
+    padding: 20px;
+}
+
+span {
+    color: rgb(250, 179, 43);
+}
+
+h2 {
+    font-size: 40px;
+}
+
+#content {
+    margin-left: 50px;
+}
